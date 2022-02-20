@@ -3,11 +3,7 @@
 int main (void)
 {
     
-    for (int i =0; i < 30000; i++)
-    {
-        printf("?");
-    }
-    printf("\n");
+    printf("ola mundo\n");
+    return 0;
 }
  
-
